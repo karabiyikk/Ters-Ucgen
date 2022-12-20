@@ -1,5 +1,3 @@
-package Anlasilmayan;
-
 import java.util.Scanner;
 
 public class ucgen {
